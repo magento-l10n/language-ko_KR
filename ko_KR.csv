@@ -2322,6 +2322,10 @@ Uses,사용횟수
 "Create an Account","회원 가입"
 "Default Billing Address","기본 결제 주소"
 "Default Shipping Address","기본 배송 주소"
+options,옵션
+"Deselect all","선택 모두 취소"
+"%s of %s selected","%s 중 %s 선택 됨"
+"B2B Features","B2B 기능"
 "This block no longer exists.","블록이 존재하지 않습니다. "
 "Enable Block","블럭 활성화 "
 "Block Title","블럭 제목 "
@@ -2526,6 +2530,8 @@ Updated:,업데이트:
 "Don't have a PayPal account? Simply enter your email address.","페이팔 계정이 없으세요? 간단히 이메일주소만 입력하세요."
 "Billing Agreement Signup",결제약관
 "To use PayPal Payments Advanced, you must configure  your PayPal Payments Advanced account on the PayPal website.","To use PayPal Payments Advanced, you must configure your PayPal Payments Advanced account on the PayPal website."
+"Google API","구글 API"
+"Google Analytics","구글 어낼리틱스"
 "Save Review","리뷰 저장"
 "New Review","상품평 추가"
 "Summary of Review","리뷰 제목"
