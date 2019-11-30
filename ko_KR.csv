@@ -1039,6 +1039,8 @@ Message:,메시지:
 "Add Products to New Option","상품을 신규 옵션으로 추가"
 "Add Products to Option ""%1""","상품을 옵션 ""%1""에 추가"
 "Special Price","특별 가격"
+"""option_id"" and ""parent_id"" values should be specified","""option_id"" 와 ""parent_id"" 값이 지정되어야 합니다"
+"""sku"" value should be specified","""sku"" (stock-keep-unit) 값이 지정되어야 합니다"
 Always,항상
 "Incorrect CAPTCHA","올바르지 않은 보안문자(CAPTCHA) 입니다"
 "Incorrect CAPTCHA.","올바르지 않은 보안문자(CAPTCHA) 입니다."
