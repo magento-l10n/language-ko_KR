@@ -1547,11 +1547,12 @@ End,종료
 "Please correct the parameters.","파라메터를 수정해 주십시오."
 "Minimum Qty","최소 수량"
 "Add Minimum Qty","최소 수량 추가"
+"We can't rebuild the index for an undefined product.","정의되지 않은 제품에 대해 인덱스를 재생성할 수 없습니다."
 "This product is out of stock.",품절상태입니다.
 "Some of the products are out of stock.","몇가지 제품이 품절상태 입니다."
 "Undefined product type","저으이되지 않은 상품 타입"
 "%1 is not a correct comparison method.","%1은 잘못된 비교 방법 입니다."
-"No Backorders","백오더 불가"
+"No Backorders","주문지연 없음"
 "Allow Qty Below 0","0 이하의 수량을 허용"
 "Allow Qty Below 0 and Notify Customer","0 이하의 수량을 허용하고 고객에게 통보"
 "Unable to save Stock","재고를 저장할 수 없습니다."
@@ -1569,6 +1570,7 @@ End,종료
 "Set Items' Status to be In Stock When Order is Cancelled","주문 캔슬시 품절상태 취소"
 "Display Out of Stock Products","품절 상품 표시"
 "Product Stock Options","상품 재고 옵션"
+Backorders,"지연된 주문"
 Stock,재고
 "Index stock","재고 인덱스"
 "Use Deferred Stock Update","지연된 재고 업데이트 사용"
@@ -3517,6 +3519,7 @@ error-message,"에러 메세지"
 "Amount doesn't match.","금액이 일치하지 않습니다."
 "Payment was canceled","결제가 취소되었습니다."
 "Quick Checkout","빠른 주문 결제"
+"Order History","주문 이력"
 "<a href=%url_about_us>About Us</a>","<a href=%url_about_us>우리는...</a>"
 "<a href=url_customer_service>Customer Service</a>","<a href=url_customer_service>고객 서비스</a>"
 "<a href=""tel:%store_phone"">%store_phone</a>","<a href=""tel:%store_phone"">
@@ -3529,6 +3532,8 @@ error-message,"에러 메세지"
 "If you have questions about your order, you can email us at <a href=""mailto:%store_email"">%store_email</a>.","If you have questions about your order, you can email us at <a href=""mailto:%store_email"">
  %store_email</a>
  ."
+"About Us","쇼핑몰 소개"
+"Customer Service","고객 서비스"
 "Backup options","백업 옵션"
 Warning,경고
 "Insert Widget...","위젯 추가..."
