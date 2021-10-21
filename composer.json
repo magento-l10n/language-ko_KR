@@ -1,6 +1,6 @@
 {
     "name": "community-engineering/language-ko_kr",
-    "version": "0.0.6",
+    "version": "0.0.7",
     "type": "magento2-language",
     "description": "ko_KR language package.",
     "license": [
